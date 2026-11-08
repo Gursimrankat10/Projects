@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+career_compass.db
+career_compass.db-shm
+career_compass.db-wal
+.career_compass_secret
+.career_compass_server.pid
+logs/
